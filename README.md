@@ -1,3 +1,43 @@
+Explore Coimbatore 
+A modern and interactive web application that showcases the best tourist spots, hotels, restaurants, and shopping malls in Coimbatore.  
+
+1) Clone the repository
+https://github.com/bhuvaneshwari152/Explore_coimbatore.git
+
+2) Navigate to the project directory
+cd tourism-app
+
+3) Install dependencies
+npm install
+
+4) Run the development server
+npm start
+
+5)Open the app in your browser
+http://localhost:3000
+
+Technology used - Html,Css,React.js
+
+<img width="960" height="442" alt="Screenshot 2025-10-26 220117" src="https://github.com/user-attachments/assets/194ea34f-7d89-4093-9f06-4ee9c26c3cd1" />
+
+
+<img width="953" height="445" alt="Screenshot 2025-10-26 220246" src="https://github.com/user-attachments/assets/77344444-9b4c-4eb3-b250-d16e8a8d9c8e" />
+
+<img width="949" height="433" alt="Screenshot 2025-10-26 220332" src="https://github.com/user-attachments/assets/0532a16a-971b-4852-80de-7a54b7fe8bff" />
+
+<img width="941" height="411" alt="Screenshot 2025-10-26 220427" src="https://github.com/user-attachments/assets/b510e62d-c49f-4891-a221-c50b02768081" />
+
+Assumptions
+Interactive Feature Cards: Each main category (Tourist Spots, Hotels, Restaurants, Shopping Malls) is displayed as a card for easy navigation.
+
+Smooth Navigation: Clicking a card smoothly opens the details page without a page reload.
+
+Image Galleries: Each feature page includes images for a better visual experience.
+
+Quick Back Navigation: Users can return to the main Explore page from any feature page easily.
+
+Optional Maps Integration: Some locations have map view to see the exact location in Coimbatore.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
